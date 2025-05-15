@@ -11,16 +11,42 @@
 }
 
 #hadestownPage{
-	background-color: grey;
+	background-color: #303030;
 }	
 
+#homePage{
+	background-color: lavender;
+}
+
 /*TOPNAV*/
+#cavetownTopnav{
+	background-color: #375c57;
+}
+
+#lianaFloresTopnav{
+	background-color: #e7533f;
+}
+
+#laufeyTopnav{
+	background-color: #2e325c;
+}
+
+#homeTopnav{
+	background-color: #4e2757;
+}
+
+#hadestownTopnav{
+	background-color: #a11212;
+}
+
+
 .topnav {
   background-color: #333;
   overflow: hidden;
 }
 
 .topnav a {
+	text-decoration: none;
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -57,4 +83,12 @@
 
 #lianaFloresWords{
 	color: #e7533f;
+}
+
+#homeWords{
+	color:;
+}
+
+#hadestownWords{
+	color: #f5ecd5;
 }
